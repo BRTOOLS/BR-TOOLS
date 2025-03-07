@@ -49,9 +49,6 @@ The `luapacker.exe` utility compiles `.lua` scripts into a binary or encrypted `
 
 
 
-Aqui está a versão em português mais técnica:  
-
----
 
 **Registro e Local de Instalação do BR Tools**  
 
