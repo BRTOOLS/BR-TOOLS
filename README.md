@@ -12,7 +12,8 @@ O BR Tool é um software de código aberto desenvolvido em C#, projetado para mo
 The BR Tool is an open-source software developed in C#, designed to modify and add games on Steam.
 
 
-DISCORD https://discord.gg/w62NZ8WVsP
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)
+ https://discord.gg/w62NZ8WVsP
 
 
 Woks on
