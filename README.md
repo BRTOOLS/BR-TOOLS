@@ -75,7 +75,7 @@ O utilitário `luapacker.exe` compila scripts `.lua` em um formato binário ou c
 
 - Funcionalidades adicionais serão implementadas em futuras atualizações.  
 
----
+
 
 
 
