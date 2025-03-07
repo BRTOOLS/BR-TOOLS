@@ -1,3 +1,6 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/CmlLib/CmlLib.Core/blob/master/LICENSE)
+
+
 # BR-TOOLS  
 
 O BR Tool é um software de código aberto desenvolvido em C#, projetado para modificar e adicionar jogos na Steam.  
