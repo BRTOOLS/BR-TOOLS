@@ -6,4 +6,4 @@ O BR Tool é um software de código aberto desenvolvido em Python, projetado par
 
 # BR-TOOLS  
 
-The BR Tool is an open-source software developed in Python, designed to modify and add games on Steam.V
+The BR Tool is an open-source software developed in Python, designed to modify and add games on Steam.
