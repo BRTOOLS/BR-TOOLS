@@ -18,6 +18,10 @@ The BR Tool is an open-source software developed in C#, designed to modify and a
 
 
 
+
+
+
+
 Woks on
 
 - [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
